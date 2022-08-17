@@ -7,7 +7,6 @@ const App = () => {
 		<>
 			<SectionWrapper
 				title="You own store of Nifty NFTs. Start Selling & Growing"
-				description="Buy. store, collect NFTs, exchange & earn crypto. Join 25+ million people using NFT Lyshka Marketplace."
 				showBtn
 				mockupImg={assets.homeHero}
 				banner="banner"
